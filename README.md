@@ -5,9 +5,7 @@ This project is a Telegram bot that allows downloading YouTube videos and sendin
 
 
 
-
-https://github.com/user-attachments/assets/45916e02-14f1-4271-9cc1-972967407e26
-
+https://github.com/user-attachments/assets/b8ba3b74-002a-454a-9426-c8320c377ebd
 
 
 
